@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100vw" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
+<img alt="banner" style="width:50vw" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 
 <h1 align="center">Hi 👋, I'm MinhTienTH</h1>
 <h3 align="center">I am a Data Scientist</h3>
